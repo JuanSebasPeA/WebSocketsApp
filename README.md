@@ -5,6 +5,6 @@ This is a simple chat app where su can chat with other users, watching their soc
 
 example of programm running in the next images: 
 
-![Program running](webSocketRun1.png)
+![Program running](/webSocketRun1.png)
 
-![Program running](webSocketRun.png)
+![Program running](/webSocketRun.png)
